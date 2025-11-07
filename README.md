@@ -70,8 +70,8 @@ a single mark so it wasn't academically efficient to continue working on it.
 
 This solution was the result of two basic ideas: the conditions were merely 
 complicated functions (abc inputs mapped to xyz outputs deterministically) 
-and the idea of "cheating" by using the equivalent of a dictionary lookup, 
-via hashing as I'd learnt about Big O in an earlier unit on data structures.
+and the idea of "cheating" by using the equivalent of a dictionary lookup -- 
+via hashing -- as I'd learnt about Big O in an earlier unit on data structures.
 
 The "skeleton" of this solution is:
 
