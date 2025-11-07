@@ -101,9 +101,9 @@ further.
 The main difference is combining the processing of the LEFT, RIGHT, and MOVE 
 commands into a single line.
 
-I also used a self-imposed constraint of avoiding the use of avoiding ternary 
-operators and any conditional check (on one line) that involved more than an 
-if-else; ideally even an if-else would not be allowed on one line.
+I also used a self-imposed constraint of avoiding the use of ternary operators 
+and any conditional check (on one line) that involved more than an if-else; 
+ideally even an if-else would not be allowed on one line.
 
 The "skeleton" of my revised solution is:
 
