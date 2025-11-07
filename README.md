@@ -62,7 +62,7 @@ Visual Studio you can make use of command line arguments using
 > Please use the latest version of dotnet to create a new console application 
 > and use your IDE of choice to accomplish the task.
 
-## Original solution (9 lines)
+## Original solution (9 lines, 1,570 characters)
 
 I originally submitted a 9-line solution and moved on to other things for the 
 rest of the semester. I believed I could do better but the extra credit was 
@@ -90,7 +90,7 @@ while (conditions)
 Later on we were encouraged to record a video explaining our solutions. I've 
 uploaded that original 2024 video: [YouTube](https://youtu.be/ZAdc4IpGYgI).
 
-## Revised Solution (6 lines)
+## Revised Solution (6 lines, 2,765 characters)
 
 Towards the end of the semester I got a brain worm about how it should be 
 possible to build on the ideas in my original implementation to further 
