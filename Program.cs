@@ -109,7 +109,7 @@ namespace MoonRobot
         }
 
         // unpacked version of the revised solution that was almost vaguely sane to work on for debugging
-        static void Main5Unpacked(string[] args)
+        static void UnpackedRevisedSolution(string[] args)
         {
             (int x, int y, int direction, string? input) = (-1, -1, -1, null);
             while ((int.Parse(args[0]) >= 2 && int.Parse(args[0]) <= 100) && ((input = Console.ReadLine().ToLowerInvariant()) != null))
